@@ -171,20 +171,6 @@ h2 {
   margin-bottom:100px;
 }
 
-.skill-icon,
-.skill img {
-  width: 10px;           /* same size for all */
-  height: 10px;
-  color: #04d9ff;
-  margin-bottom: 10px;
-  object-fit: contain;   /* keeps image proportions */
-}
-
-.skill-icon {
-  font-size: 60px;       /* matches 60px width of image */
-}
-
-  
 .scroll {
 
   transform: perspective(300px) translate3d(0, 0, 0);
@@ -469,6 +455,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
