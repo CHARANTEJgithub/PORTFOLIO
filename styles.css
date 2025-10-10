@@ -174,7 +174,7 @@ h2 {
 .skill-icon,
 .skill img {
   width: 10px;           /* same size for all */
-  height: 60px;
+  height: 10px;
   color: #04d9ff;
   margin-bottom: 10px;
   object-fit: contain;   /* keeps image proportions */
@@ -469,6 +469,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
