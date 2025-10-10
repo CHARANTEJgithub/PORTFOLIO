@@ -142,10 +142,10 @@ h2 {
 
 .skills-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: center;
-  gap: 5px;
-  padding-top: 50px;
+  gap: 30px;            
+  overflow-x: auto;   
 }
 
 .skill {
@@ -455,6 +455,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
