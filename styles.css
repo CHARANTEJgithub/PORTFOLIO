@@ -144,7 +144,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 5px;
+  gap: 4px;
   padding-top: 50px;
 }
 
@@ -168,7 +168,7 @@ h2 {
   font-size: 1.2rem;
   font-weight: 500;
   color: white;
-  margin-bottom:100px;
+  margin-bottom:200px;
 }
 
 .scroll {
@@ -455,6 +455,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
