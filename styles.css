@@ -178,11 +178,6 @@ h2 {
   text-align: center;
 }
   
-
-.skill:hover {
-  transform: translateY(-10px);
-}
-
 .scroll {
 
   transform: perspective(300px) translate3d(0, 0, 0);
@@ -467,3 +462,4 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
