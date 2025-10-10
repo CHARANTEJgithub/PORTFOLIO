@@ -173,7 +173,7 @@ h2 {
 
 .skill-icon,
 .skill img {
-  width: 60px;           /* same size for all */
+  width: 10px;           /* same size for all */
   height: 60px;
   color: #04d9ff;
   margin-bottom: 10px;
@@ -469,5 +469,6 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
