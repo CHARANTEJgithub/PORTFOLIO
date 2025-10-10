@@ -146,6 +146,8 @@ h2 {
   justify-content: center;
   gap: 20px;            
   overflow-x: auto;       
+   padding-left: 0;
+  padding-right: 0;
 }
 
 
@@ -454,6 +456,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
