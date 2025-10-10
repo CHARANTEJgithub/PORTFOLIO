@@ -145,8 +145,7 @@ h2 {
   flex-wrap: wrap;
   justify-content: center;
   gap: 4px;
-  padding-top: 50px;
-  padding: 50px 10px;
+  padding: 0px 10px;
 }
 
 .skill {
@@ -456,6 +455,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
