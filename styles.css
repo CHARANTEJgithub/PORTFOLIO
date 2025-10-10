@@ -159,10 +159,11 @@ h2 {
 }
 
 .skill-icon {
-  font-size: 3rem;
+  font-size: 50px; 
   color: #04d9ff;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
+
 
 .skill p {
   font-size: 1.2rem;
@@ -455,6 +456,7 @@ width: 100%; /* Make items stack vertically on small screens */
   }
 
 }
+
 
 
 
